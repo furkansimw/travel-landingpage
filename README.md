@@ -1,3 +1,3 @@
-# [Demo Link](https://simsekfurkann07.github.io/travel-landingpage/)
+# [Demo Link](https://furkansimw.github.io/travel-landingpage/)
 
 # travel-landingpage
